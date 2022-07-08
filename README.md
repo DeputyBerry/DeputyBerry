@@ -59,18 +59,6 @@ I'm a Healthcare worker turned programmer 👨‍💻. I currently spend most of
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeputyBerry.DeputyBerry)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -83,9 +71,3 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 [![DeputyBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeputyBerry&hide=contribs,prs&theme=tokyonight)]
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
