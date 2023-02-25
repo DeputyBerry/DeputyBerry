@@ -1,4 +1,4 @@
-[!MasterHead](https://animesher.com/orig/2/204/2045/20456/animesher.com_gif-ghost-in-the-shell-coding-2045678.gif)
+<img src="https://animesher.com/orig/2/204/2045/20456/animesher.com_gif-ghost-in-the-shell-coding-2045678.gif">
 
 <h1 align="center">Hi 👋, I'm Terrence!</h1>
 <h3 align="center">Fullstack Software Engineer Extrodinaire</h3>
