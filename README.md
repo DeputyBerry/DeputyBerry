@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deputyberry&label=Profile%20views&color=0e75b6&style=flat" alt="deputyberry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deputyberry" alt="deputyberry" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/keith10terrence" target="blank"><img src="https://img.shields.io/twitter/follow/keith10terrence?logo=twitter&style=for-the-badge" alt="keith10terrence" /></a> </p>
 
 - 📫 How to reach me **TerrenceK28@protonmail.me**
