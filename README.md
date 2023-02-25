@@ -5,6 +5,7 @@
 <p align ="center"> Interested in Web development 🖥️</p>
 <p align ="center"> Currently Learning React ⚛</p>
 <p align ="center"> Always curious and exploring new technologies 🌎</p>
+<p align ="center"> Looking for open source opportunites using MERN! 🤝</p>
 <p align="left"> <a href="https://twitter.com/keith10terrence" target="blank"><img src="https://img.shields.io/twitter/follow/keith10terrence?logo=twitter&style=for-the-badge" alt="keith10terrence" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deputyberry&label=Profile%20views&color=0e75b6&style=flat" alt="deputyberry" /> </p>
 
