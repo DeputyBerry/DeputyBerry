@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Terrence!</h1>
 <h3 align="center">Fullstack Software Engineer Extrodinaire</h3>
+<img src = "https://i.pinimg.com/originals/13/31/20/13312045ba691fcb8d1fbae330d937e0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deputyberry&label=Profile%20views&color=0e75b6&style=flat" alt="deputyberry" /> </p>
 
