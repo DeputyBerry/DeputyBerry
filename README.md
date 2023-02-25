@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Terrence!</h1>
 <h3 align="center">Fullstack Software Engineer Extrodinaire</h3>
-<h4 align="center">A real MEARN professional 😎</h4>
+<h4 align="center">A real MERN professional 😎</h4>
 <p align ="center"> Interested in Web development 🖥️</p>
 <p align ="center"> Currently Learning React ⚛</p>
 <p align ="center"> Always curious and exploring new technologies 🌎</p>
